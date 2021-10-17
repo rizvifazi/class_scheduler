@@ -1,0 +1,368 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ClassScheduler
+</name>
+</assembly>
+<members>
+<member name="T:Class_Scheduler.classscheduleDataSet.tbluserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblsubjectDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.open_subjectsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.schoolyrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblcourseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblinstructorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblroomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblscheduleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tbgradeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblresultsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tbluserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblsubjectRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.open_subjectsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.schoolyrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblcourseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblinstructorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblroomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblscheduleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tbgradeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblresultsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tbluserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblsubjectRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.open_subjectsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.schoolyrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblcourseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblinstructorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblroomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblscheduleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tbgradeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet.tblresultsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.tbluserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.tblsubjectTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.open_subjectsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.schoolyrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.tblcourseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.tblinstructorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.tblroomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.tblscheduleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.tbgradeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.tblresultsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Class_Scheduler.classscheduleDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Class_Scheduler.classscheduleDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Class_Scheduler.classscheduleDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Class_Scheduler.classscheduleDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Class_Scheduler.classscheduleDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Class_Scheduler.classscheduleDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Class_Scheduler.classscheduleDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Class_Scheduler.classscheduleDataSetTableAdapters.TableAdapterManager.UpdateAll(Class_Scheduler.classscheduleDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Class_Scheduler.classscheduleDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Class_Scheduler.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.about">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.about1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.archive">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.blackboard_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.calendar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.clock">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.close">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.CloseWindow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.course">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.curriculum">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.exitbutton">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.graduation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.instructor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.learning">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.lecture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.Logo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.maximize">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.MaximizeWindow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.minimize">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.MinimizeWindow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.museum">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.password">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.reading">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.roject_about">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.room">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.schedule">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.settings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.settingssmall">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.student">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.subjects">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.summary">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Class_Scheduler.My.Resources.Resources.user1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Class_Scheduler.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
